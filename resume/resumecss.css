@@ -1,0 +1,202 @@
+.a {
+    width: 50%;
+    height: 850px;
+    border: 3px solid black;
+    margin-left: 300px;
+    background-color: whitesmoke;
+}
+
+.a .contact a {
+    text-decoration: none;
+    color: white;
+}
+
+.b {
+    width: 38.9%;
+    height: 850px;
+    border: 2px solid black;
+    background-color: navy;
+}
+
+.dp {
+    width: 45%;
+    height: 120px;
+    border-radius: 62px;
+    margin-left: 40px;
+    margin-top: 25px;
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 132px;
+    color: white;
+
+
+}
+
+.b .dp .name {
+    width: 130%;
+    height: 20px;
+    padding-top: 140px;
+
+
+
+}
+
+.b .dp .name p {
+    margin-right: 50px;
+
+
+
+
+}
+
+.contact ul {
+    width: 180%;
+    margin-top: 5px;
+    margin-left: -40px;
+    padding-top: 4px;
+
+
+
+}
+
+.contact ul li {
+    padding-top: 4px;
+
+}
+
+
+.ul {
+    width: 180%;
+    margin-top: 50px;
+    margin-left: -40px;
+    padding-top: 4px;
+
+
+
+}
+
+.contact ul li {
+    padding-top: 4px;
+
+}
+
+
+
+.edu ul {
+    width: 180%;
+    margin-top: 4px;
+    margin-left: -40px;
+
+
+
+
+}
+
+.edu ul li {
+    padding-top: 3px;
+
+}
+
+
+.ul {
+    width: 180%;
+    margin-top: 50px;
+    margin-left: -40px;
+    padding-top: 4px;
+
+
+
+}
+
+.edu ul li {
+    padding-top: 3px;
+
+}
+
+.a .about {
+    width: 40%;
+    height: 50px;
+    margin-left: 460px;
+    margin-top: -125px;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+.a .details {
+    width: 385%;
+    height: 700px;
+    margin-left: -163px;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.a .obj {
+    width: 385%;
+    height: 150px;
+    margin-left: -163px;
+    margin-top: -610px;
+
+
+}
+
+.a .obj .obj_info {
+    text-align: justify;
+}
+
+.a .exp {
+    width: 385%;
+    height: 150px;
+    margin-left: -163px;
+    margin-top: -18px;
+
+
+}
+
+.a .strenth .strenth_info {
+    text-align: center;
+}
+
+.a .strenth {
+    width: 385%;
+    height: 150px;
+    margin-left: -163px;
+    margin-top: 10px;
+
+
+}
+
+.a .pers .pers_info {
+    text-align: center;
+}
+
+.a .pers {
+    width: 385%;
+    height: 150px;
+    margin-left: -163px;
+    margin-top: -30px;
+
+
+}
+
+.a li i {
+    color: black;
+}
+
+.a .pers .pers_info ul {
+    text-align: justify;
+}
+
+.a .pers .pers_info ul li {}
+
+
+.a .declr {
+    width: 385%;
+    height: 150px;
+    margin-left: -163px;
+    margin-top: -5px;
+
+
+}
